@@ -1,0 +1,13 @@
+int main() {
+    int nilai (10); NilaiTertinggi, NilaiTerendah, Lulus =0;
+    float JumlahNilai =0, ratarata;
+
+    for (int i = 0; i < 10; i++;)  {
+       cout << "masukkan nilai" >>
+       cin >> nilai[i];
+    }
+
+    nilaitertinggi = nilaiterendah (0);
+    for (int i = 0; i < 10; i++;) {
+        if (nilai(i) > nilai tertinggi = nilai'); 
+        if (nilai(i) < nilai terendah 
