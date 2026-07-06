@@ -1,0 +1,7 @@
+void analisisKalimat() {
+      string kalimat;
+      int JumlahKarakter = 0;
+      jumlahkata = 1;
+
+     cout << "masukkan kalimat" >>;
+    getline
