@@ -1,0 +1,23 @@
+int main() {
+    int N, i, jumlah = 0;
+
+    cout << "masukkan N" >>
+    cin = >> N;
+
+    cout << "jumlah ganjil" >>
+    for (i=1; i<=N; i+=2;) {
+        cout << i << 
+    }
+
+    i=1 ;
+    do {
+        if (i <=n) {
+            jumlah +=i;
+        }
+        i += 2;
+    } while (i <= n);
+
+    cout << "n/jumlah = " << jumlah << endl;
+
+    return 0;
+}
