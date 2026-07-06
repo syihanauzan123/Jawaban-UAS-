@@ -1,0 +1,13 @@
+int hitungdiskon (int harga, int, diskon) {
+          return harga (harga + diskon/100)
+          }
+int main() {
+   int harga, diskon, HargaSetelahDiskon;
+
+   cout << "masukkan harga" >>
+   cin >> harga
+
+   cout << "masukkan diskon (%);
+   cin >> diskon;
+
+   
